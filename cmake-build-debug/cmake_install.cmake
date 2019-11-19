@@ -1,4 +1,4 @@
-# Install script for directory: /Users/filip/Desktop/Graph/Graph
+# Install script for directory: /Users/filip/Desktop/Graph/GraphMatrix
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/filip/Desktop/Graph/Graph/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

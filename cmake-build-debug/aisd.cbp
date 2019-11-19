@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/filip/Desktop/Graph/Graph/cmake-build-debug"/>
+				<Option working_dir="/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/filip/Desktop/Graph/Graph/cmake-build-debug"/>
+				<Option working_dir="/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/filip/Desktop/Graph/Graph/cmake-build-debug"/>
+				<Option working_dir="/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="aisd">
-				<Option output="/Users/filip/Desktop/Graph/Graph/cmake-build-debug/aisd" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/filip/Desktop/Graph/Graph/cmake-build-debug"/>
+				<Option output="/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/aisd" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 aisd"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 aisd"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="aisd/fast">
-				<Option output="/Users/filip/Desktop/Graph/Graph/cmake-build-debug/aisd" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/filip/Desktop/Graph/Graph/cmake-build-debug"/>
+				<Option output="/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/aisd" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,29 +73,29 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 aisd/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/Graph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 aisd/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/filip/Desktop/Graph/Graph/Graph.cpp">
+		<Unit filename="/Users/filip/Desktop/Graph/GraphMatrix/Graph.cpp">
 			<Option target="aisd"/>
 		</Unit>
-		<Unit filename="/Users/filip/Desktop/Graph/Graph/Graph.h">
+		<Unit filename="/Users/filip/Desktop/Graph/GraphMatrix/Graph.h">
 			<Option target="aisd"/>
 		</Unit>
-		<Unit filename="/Users/filip/Desktop/Graph/Graph/Vertex.cpp">
+		<Unit filename="/Users/filip/Desktop/Graph/GraphMatrix/Vertex.cpp">
 			<Option target="aisd"/>
 		</Unit>
-		<Unit filename="/Users/filip/Desktop/Graph/Graph/Vertex.h">
+		<Unit filename="/Users/filip/Desktop/Graph/GraphMatrix/Vertex.h">
 			<Option target="aisd"/>
 		</Unit>
-		<Unit filename="/Users/filip/Desktop/Graph/Graph/main.cpp">
+		<Unit filename="/Users/filip/Desktop/Graph/GraphMatrix/main.cpp">
 			<Option target="aisd"/>
 		</Unit>
-		<Unit filename="/Users/filip/Desktop/Graph/Graph/CMakeLists.txt">
+		<Unit filename="/Users/filip/Desktop/Graph/GraphMatrix/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

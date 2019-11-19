@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/filip/Desktop/Graph/Graph
+CMAKE_SOURCE_DIR = /Users/filip/Desktop/Graph/GraphMatrix
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/filip/Desktop/Graph/Graph/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/aisd.dir/depend.make
@@ -59,42 +59,42 @@ include CMakeFiles/aisd.dir/flags.make
 
 CMakeFiles/aisd.dir/main.cpp.o: CMakeFiles/aisd.dir/flags.make
 CMakeFiles/aisd.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/filip/Desktop/Graph/Graph/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/aisd.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/aisd.dir/main.cpp.o -c /Users/filip/Desktop/Graph/Graph/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/aisd.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/aisd.dir/main.cpp.o -c /Users/filip/Desktop/Graph/GraphMatrix/main.cpp
 
 CMakeFiles/aisd.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aisd.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/filip/Desktop/Graph/Graph/main.cpp > CMakeFiles/aisd.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/filip/Desktop/Graph/GraphMatrix/main.cpp > CMakeFiles/aisd.dir/main.cpp.i
 
 CMakeFiles/aisd.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aisd.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/filip/Desktop/Graph/Graph/main.cpp -o CMakeFiles/aisd.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/filip/Desktop/Graph/GraphMatrix/main.cpp -o CMakeFiles/aisd.dir/main.cpp.s
 
 CMakeFiles/aisd.dir/Graph.cpp.o: CMakeFiles/aisd.dir/flags.make
 CMakeFiles/aisd.dir/Graph.cpp.o: ../Graph.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/filip/Desktop/Graph/Graph/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/aisd.dir/Graph.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/aisd.dir/Graph.cpp.o -c /Users/filip/Desktop/Graph/Graph/Graph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/aisd.dir/Graph.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/aisd.dir/Graph.cpp.o -c /Users/filip/Desktop/Graph/GraphMatrix/Graph.cpp
 
 CMakeFiles/aisd.dir/Graph.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aisd.dir/Graph.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/filip/Desktop/Graph/Graph/Graph.cpp > CMakeFiles/aisd.dir/Graph.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/filip/Desktop/Graph/GraphMatrix/Graph.cpp > CMakeFiles/aisd.dir/Graph.cpp.i
 
 CMakeFiles/aisd.dir/Graph.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aisd.dir/Graph.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/filip/Desktop/Graph/Graph/Graph.cpp -o CMakeFiles/aisd.dir/Graph.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/filip/Desktop/Graph/GraphMatrix/Graph.cpp -o CMakeFiles/aisd.dir/Graph.cpp.s
 
 CMakeFiles/aisd.dir/Vertex.cpp.o: CMakeFiles/aisd.dir/flags.make
 CMakeFiles/aisd.dir/Vertex.cpp.o: ../Vertex.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/filip/Desktop/Graph/Graph/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/aisd.dir/Vertex.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/aisd.dir/Vertex.cpp.o -c /Users/filip/Desktop/Graph/Graph/Vertex.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/aisd.dir/Vertex.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/aisd.dir/Vertex.cpp.o -c /Users/filip/Desktop/Graph/GraphMatrix/Vertex.cpp
 
 CMakeFiles/aisd.dir/Vertex.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/aisd.dir/Vertex.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/filip/Desktop/Graph/Graph/Vertex.cpp > CMakeFiles/aisd.dir/Vertex.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/filip/Desktop/Graph/GraphMatrix/Vertex.cpp > CMakeFiles/aisd.dir/Vertex.cpp.i
 
 CMakeFiles/aisd.dir/Vertex.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/aisd.dir/Vertex.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/filip/Desktop/Graph/Graph/Vertex.cpp -o CMakeFiles/aisd.dir/Vertex.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/filip/Desktop/Graph/GraphMatrix/Vertex.cpp -o CMakeFiles/aisd.dir/Vertex.cpp.s
 
 # Object files for target aisd
 aisd_OBJECTS = \
@@ -110,7 +110,7 @@ aisd: CMakeFiles/aisd.dir/Graph.cpp.o
 aisd: CMakeFiles/aisd.dir/Vertex.cpp.o
 aisd: CMakeFiles/aisd.dir/build.make
 aisd: CMakeFiles/aisd.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/filip/Desktop/Graph/Graph/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable aisd"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable aisd"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/aisd.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -123,6 +123,6 @@ CMakeFiles/aisd.dir/clean:
 .PHONY : CMakeFiles/aisd.dir/clean
 
 CMakeFiles/aisd.dir/depend:
-	cd /Users/filip/Desktop/Graph/Graph/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/filip/Desktop/Graph/Graph /Users/filip/Desktop/Graph/Graph /Users/filip/Desktop/Graph/Graph/cmake-build-debug /Users/filip/Desktop/Graph/Graph/cmake-build-debug /Users/filip/Desktop/Graph/Graph/cmake-build-debug/CMakeFiles/aisd.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/filip/Desktop/Graph/GraphMatrix /Users/filip/Desktop/Graph/GraphMatrix /Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug /Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug /Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/CMakeFiles/aisd.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/aisd.dir/depend
 

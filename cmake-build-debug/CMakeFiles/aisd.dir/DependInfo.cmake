@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/filip/Desktop/Graph/Graph/Graph.cpp" "/Users/filip/Desktop/Graph/Graph/cmake-build-debug/CMakeFiles/aisd.dir/Graph.cpp.o"
-  "/Users/filip/Desktop/Graph/Graph/Vertex.cpp" "/Users/filip/Desktop/Graph/Graph/cmake-build-debug/CMakeFiles/aisd.dir/Vertex.cpp.o"
-  "/Users/filip/Desktop/Graph/Graph/main.cpp" "/Users/filip/Desktop/Graph/Graph/cmake-build-debug/CMakeFiles/aisd.dir/main.cpp.o"
+  "/Users/filip/Desktop/Graph/GraphMatrix/Graph.cpp" "/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/CMakeFiles/aisd.dir/Graph.cpp.o"
+  "/Users/filip/Desktop/Graph/GraphMatrix/Vertex.cpp" "/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/CMakeFiles/aisd.dir/Vertex.cpp.o"
+  "/Users/filip/Desktop/Graph/GraphMatrix/main.cpp" "/Users/filip/Desktop/Graph/GraphMatrix/cmake-build-debug/CMakeFiles/aisd.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

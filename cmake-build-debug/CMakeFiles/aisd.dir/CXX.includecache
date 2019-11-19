@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/filip/Desktop/Graph/Graph/Graph.cpp
+iostream
+-
+vector
+-
+list
+-
+Graph.h
+/Users/filip/Desktop/Graph/Graph/Graph.h
+
+/Users/filip/Desktop/Graph/Graph/Graph.h
+cstdio
+-
+vector
+-
+Vertex.h
+/Users/filip/Desktop/Graph/Graph/Vertex.h
+
+/Users/filip/Desktop/Graph/Graph/Vertex.cpp
+iostream
+-
+Vertex.h
+/Users/filip/Desktop/Graph/Graph/Vertex.h
+
+/Users/filip/Desktop/Graph/Graph/Vertex.h
+cstdio
+-
+vector
+-
+
+/Users/filip/Desktop/Graph/Graph/main.cpp
+iostream
+-
+Graph.h
+/Users/filip/Desktop/Graph/Graph/Graph.h
+

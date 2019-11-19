@@ -344,6 +344,26 @@ bool Graph::isTreeUtil(int v, bool visited[], int parent) {
             return true;
     }
     return false;
+}
+
+bool Graph::isConnectedDFS() {
+    auto size = vertices.size();
+    static bool *visited = new bool[size];
+
+    for(int i =0; i<=size ; i++) {
+        for(int z =0; z<size ; z++)
+            visited[z] = false;
+
+        dfs_searchUtil(i,visited);
+cout << endl;
+        for(int u =0; u<=size; u++){
+            cout << visited[u] << " is visited "<<u<<endl;
+            if(!visited[u])
+               return false;
+          }
+
+    }
+    return true;
 };
 
 

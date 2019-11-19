@@ -53,4 +53,5 @@ public:
     void dfs_searchUtil(int a, bool visited[]);
     bool isTree();
     bool isTreeUtil(int v, bool visited[], int parent);
+    bool isConnectedDFS();
 };
